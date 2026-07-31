@@ -1,0 +1,13 @@
+.button button{
+    color: white;
+    background-color: gray;
+    padding: 30px;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: center;
+    cursor: auto;
+}
+
+body{
+    background-color: darkslategrey;
+}
